@@ -1,0 +1,349 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width: 1100px;
+	height: 1800px;
+	/*border: 1px solid black;*/
+	margin: 0 auto;
+}
+.container .header{
+	background-color: #333333;
+	height: 130px;
+}
+.row{
+	width: 1000px;
+	margin: 0 auto;
+}
+.container .header .chap, .container .header .ong{
+	width: 500px;
+	float: left;
+}
+.container .header .chap p{
+	font-family: "Myraid Pro";
+	color: #eeeeee;
+	font-size: 60px;
+	line-height: 130px;
+
+}       
+.container .header .ong ul{
+	list-style: none;
+	margin-top: 60px;
+}
+.container .header .ong ul li{
+	margin-left: 15px;
+	color: #eeeeee;
+	float: left;
+}
+.container .header .ong ul li a{
+	font-family: Arial;
+	text-decoration-line: none;
+	color: #eeeeee;
+}
+.container .header .ong ul li .active{
+	color: #00aeef;
+}
+.tozalash{
+	clear: both;
+}.content{
+	height: 130px;
+	background-color: white;
+}
+.row2{
+	width: 1000px;
+	font-size: 55px;
+	margin: 0 auto;
+	margin-top: 25px; 
+	color: #333333;
+}
+.row3{
+	width: 1000px;
+	font-size: 44px;
+	margin: 0 auto;
+	margin-top: 0px; 
+	color: #bbbbbb;
+}
+.tochkalar{
+	border: 2px dashed #cccccc;
+	width: 990px;
+	margin-left: 55px;
+	margin-top: 25px;
+}
+.tochkalar2{
+	border: 2px dashed #cccccc;
+	width: 990px;
+	margin-left: 55px;
+	margin-top: 32px;
+}
+.clas{
+	width: 1000px;
+	font-size: 34px;
+	margin: 0 auto;
+	margin-top: 25px; 
+	color: #555555;	
+}
+.uchlik{
+	width: 293px;
+	height: 450px;
+	border: 1px solid #00aeef;
+	background-color: #00aeef;
+	color: white;
+	float: left;
+	margin-left: 55px;
+	margin-top: 65px;
+}
+.uchlik2{
+	width: 293px;
+	height: 450px;
+	border: 1px solid #00aeef;
+	background-color: #00aeef;
+	color: white;
+	float: left;
+	margin-left: 55px;
+	margin-top: 65px;
+}
+.uchlik3{
+	width: 293px;
+	height: 450px;
+	border: 1px solid #00aeef;
+	background-color: #00aeef;
+	color: white;
+	float: left;
+	margin-left: 55px;
+	margin-top: 65px;
+}
+.tochkalar4{
+	border: 2px dashed white;
+	width: 225px;
+	margin-left: 30px;
+	margin-top: 15px;
+}
+.content .uchlik p{
+	margin-left: 33px;
+	margin-top: 10px;
+	font-size: 47px;: 
+}
+.content .uchlik2 p{
+	margin-left: 42px;
+	margin-top: 10px;
+	font-size: 47px;
+}
+.content .uchlik3 p{
+	margin-left: 23px;
+	margin-top: 10px;
+	font-size: 47px;
+}
+ .text{
+	text-align: center;
+	margin-left: 5px;
+	margin-top: 15px;
+	font-size: 23px;
+}
+.content .uchlik .tort{
+	font-size: 23px;
+	width: 270px;
+	height: 35px;
+	border: 1px solid #195e77;	
+	margin-left: 10px;
+	margin-top: 45px;
+	box-shadow: 0px 0px 50px #15607c inset;
+}
+.content .uchlik2 .tort{
+	font-size: 23px;
+	width: 270px;
+	height: 35px;
+	border: 1px solid #195e77;	
+	margin-left: 10px;
+	margin-top: 45px;
+	box-shadow: 0px 0px 50px #15607c inset;
+}
+.content .uchlik3 .tort{
+	font-size: 23px;
+	width: 270px;
+	height: 35px;
+	border: 1px solid #195e77;	
+	margin-left: 10px;
+	margin-top: 45px;
+	box-shadow: 0px 0px 50px #15607c inset;
+}
+.content .uchlik .tort h5{
+	margin-left: 15px; 
+	margin-top: 7px;
+}
+.content .uchlik2 .tort h5{
+	margin-left: 23px; 
+	margin-top: 7px;
+}
+.content .uchlik3 .tort h5{
+	margin-left: 60px; 
+	margin-top: 7px;
+}
+.tochkalar5{
+	border: 2px dashed #cccccc;
+	width: 990px;
+	margin-left: 55px;
+	margin-top: 590px;
+}
+.footer .ikki{
+	width: 543px;
+	height: 700px;
+	/*border: 1px solid grey;*/
+	margin-top: 75px;
+	float: left;
+}
+.footer .ikki2{
+	height: 520px;
+	border: 1px dashed #cccccc;
+	float: left;
+	margin-top: 120px;
+}
+.footer .ikki3{
+	width: 539px;
+	height: 700px;
+	/*border: 1px solid grey;*/
+	margin-top: 75px;
+	float: left;
+}
+.footer .ikki p{
+	font-size: 30px;
+	margin-left: 55px;
+	margin-top: 50px;
+	color: #555555;
+}
+.footer .ikki3 p{
+	font-size: 30px;
+	margin-left: 55px;
+	margin-top: 50px;
+	color: #555555;
+}
+.footer .ikki .index1 .soko img{
+	width: 100px;
+	height: 100px;
+	margin-left: 50px; 
+	margin-top: 0px;
+	float: left;
+}
+.footer .ikki .index1 .soko2 {
+	font-size: 18px;
+	width: 340px;
+	margin-left: 195px; 
+	margin-top: 30px;
+	color: #555555;
+}
+.footer .ikki .index1 .soko2 h5{
+	font-size: 18px;
+	margin-top: 18px;
+	color: #555555;
+}
+.footer .ikki .index1 .soko2 p{
+	font-size: 18px;
+	margin-top: 5px;
+	margin-left: 0px;
+	color: #00aeef;
+}
+.footer .ikki .index1 .soko2 p a{
+	color: #00aeef;
+	text-decoration: none;
+}
+.footer .ikki .index2 .solo img{
+	width: 100px;
+	height: 100px;
+	margin-left: 50px; 
+	margin-top: 0px;
+	float: left;
+}
+.footer .ikki .index2 .solo2 {
+	font-size: 18px;
+	width: 340px;
+	margin-left: 195px; 
+	margin-top: 70px;
+	color: 555555;
+}
+.footer .ikki .index2 .solo2 h5{
+	font-size: 18px;
+	margin-top: 18px;
+	color: #555555;
+}
+.footer .ikki .index2 .solo2 p{
+	font-size: 18px;
+	margin-top: 5px;
+	margin-left: 0px;
+	color: #00aeef;
+}
+.footer .ikki .index2 .solo2 p a{
+	color: #00aeef;
+	text-decoration: none;
+}
+.footer .ikki .index3 .soro img{
+	width: 100px;
+	height: 100px;
+	margin-left: 50px; 
+	margin-top: 0px;
+	float: left;
+}
+.footer .ikki .index3 .soro2 {
+	font-size: 18px;
+	width: 340px;
+	margin-left: 195px; 
+	margin-top: 70px;
+	color: #555555	;
+}
+.footer .ikki .index3 .soro2 h5{
+	font-size: 18px;
+	margin-top: 18px;
+	color: #555555;
+}
+.footer .ikki .index3 .soro2 p{
+	font-size: 18px;
+	margin-top: 5px;
+	margin-left: 0px;
+	color: #00aeef;
+}
+.footer .ikki .index3 .soro2 p a{
+	color: #00aeef;
+	text-decoration: none;
+}
+.footer .ikki3 .kitob1{
+	width: 550px;
+	height: 350px;
+	/*border: 1px solid red;*/
+}
+.footer .ikki3 .kitob2{
+	width: 500px;
+	height: 130px;
+	/*border: 1px solid red;*/
+	margin-left: 50px;
+}
+.footer .ikki3 .kitob1 p{
+	font-size: 25px;
+	margin-left: 50px; 
+	margin-top: 20px; 
+}
+.footer .ikki3 .kitob1 img{
+	margin-left: 40px; 
+	margin-top: 10px; 
+	width: 480px;
+	height: 310px;
+}
+.footer .ikki3 .kitob2{
+	font-size: 22px;
+	line-height: 30px;
+	color: #555555;
+	margin-top: 10px;
+}
+.footer .ikki3 .kitob2 p{
+	font-size: 20px;
+	margin-top: 10px;
+	margin-left: 5px;
+}
+.footer .ikki3 .kitob2 p a{
+	text-decoration: none;
+	color: #00aeef;
+}
+.footer .ikki3 .nuqta{
+	border: 2px dashed #cccccc;
+	width: 1000px;
+	margin-left: -475px;
+	margin-top: 45px;
+}
